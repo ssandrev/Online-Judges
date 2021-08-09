@@ -4,5 +4,5 @@ My solutions to some online judges problems
 ## Online Judges
 
 - ### Uri - Solved: 76
-- ### Codeforces - Solved: 
+- ### Codeforces - Solved: 17
 - ### Uva - Solved: 
